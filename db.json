@@ -22,7 +22,7 @@
     },
     {
       "content": "new stuff",
-      "important": true,
+      "important": false,
       "id": 5
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "content": "okay",
-      "important": true,
+      "important": false,
       "id": 7
     },
     {
       "content": "qa",
-      "important": true,
+      "important": false,
       "id": 8
     },
     {
